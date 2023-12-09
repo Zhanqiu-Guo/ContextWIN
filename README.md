@@ -1,5 +1,3 @@
-This code is for the paper titled: "NeurWIN: Neural Whittle Index Network for Restless Bandits Via Deep RL" presented at NeurIPS 2021.
-The training, inference, and plotting methods used in the paper are contained in this repository. 
 ---
 ## Requirements
 
@@ -14,7 +12,6 @@ scipy 1.4.1
 matplotlib 3.3.0
 tensorflow 2.3.0
 
-Note the sizeAware files are the wireless scheduling case considered in the paper.
 Also using Gym's *checkenv* function requires tensorflow 1.x, which requires running an Python 3.6 environment. 
 ---
 ## Repository structure
